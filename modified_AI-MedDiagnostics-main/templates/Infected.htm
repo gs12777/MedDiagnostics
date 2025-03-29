@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Prediction</title>
+</head>
+<body>
+    <h1>Diagnosis</h1>
+    <p>You are likely infected with: <strong>{{ disease }}</strong></p>
+    <h2>Recommended Medicines</h2>
+    <ul>
+        {% for medicine in medicines %}
+        <li>{{ medicine }}</li>
+        {% endfor %}
+    </ul>
+	<div class="form-actions">
+                <a href="{{ url_for('Homepage') }}" class="btn btn-danger">Return to Home</a>
+            </div>
+</body>
+</html>

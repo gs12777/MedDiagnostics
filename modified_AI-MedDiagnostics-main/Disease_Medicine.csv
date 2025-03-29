@@ -1,0 +1,16 @@
+Disease,Medicine1,Medicine2,Medicine3
+Malaria,Chloroquine,Quinine,Artemether
+Dengue,Metformin,Insulin,Glibenclamide
+Heart_Attack,Paracetamol,Cetirizine,Ibuprofen
+Hypertension,Remdesivir,Dexamethasone,Ivermectin
+Migraine,Lisinopril,Amlodipine,Hydrochlorothiazide
+Cervical_spondylosis,Ciprofloxacin,Azithromycin,Amoxicillin
+Paralysis,Omeprazole,Ranitidine,Esomeprazole
+Drug_Reaction,Iron Supplements,Folic Acid,Vitamin B12
+Alcoholic_hepatitis,Salbutamol,Theophylline,Budesonide
+Pneumonia,Acetaminophen,Oral Rehydration,Platelet Transfusion
+Dimorphic_hemmorhoids,Amoxicillin,Azithromycin,Ceftriaxone
+Migraine,Sumatriptan,Naproxen,Amitriptyline
+Arthritis,Ibuprofen,Naproxen,Methotrexate
+Diarrhea,Loperamide,ORS,Zinc Supplements
+Bronchitis,Amoxicillin,Erythromycin,Benzonatate
