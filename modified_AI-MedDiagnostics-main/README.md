@@ -20,7 +20,7 @@ AI MedDiagnostic is a web-based application that allows users to track their sym
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Ayushkumawat/AI-MedDiagnostics.git
+1. Clone the repository
 
 2. Install the required dependencies: pip install -r requirements.txt
 
